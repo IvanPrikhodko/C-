@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb

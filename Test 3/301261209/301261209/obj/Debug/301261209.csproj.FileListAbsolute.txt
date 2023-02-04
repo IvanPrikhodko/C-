@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\bin\Debug\301261209.exe.config
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\bin\Debug\301261209.exe
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\bin\Debug\301261209.pdb
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\obj\Debug\301261209.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\obj\Debug\301261209.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\obj\Debug\301261209.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\obj\Debug\301261209.exe
+C:\Users\User\Desktop\Centennial\COMP 100 - Programming 1\Test 3\301261209\301261209\obj\Debug\301261209.pdb
